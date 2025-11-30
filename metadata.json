@@ -1,0 +1,7 @@
+{
+  "name": "Digital Dining",
+  "description": "A comprehensive restaurant management platform featuring Customer Ordering, Waiter POS, Kitchen Display System (KDS), and Admin Analytics. Enhanced with Gemini AI for menu assistance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
